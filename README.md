@@ -42,10 +42,11 @@ The React Password Generator is a web application built using React.js that enab
 6. Copy the generated password using the copy button.
 
 ## screenshots
+![Home Page](src/assets/home.png)
 
 ## deployment
 The project is deployed on github pages.
-Live: https://sukhwinder-webdev-code.github.io/React-Password-Generator/
+- Live: https://sukhwinder-webdev-code.github.io/React-Password-Generator/
 
 ## future-improvements
 - Password strength indicator
