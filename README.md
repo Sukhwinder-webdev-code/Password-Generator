@@ -1,7 +1,7 @@
 ## Password Generator App 
 A React app that generates secure passwords based on user-selected criteria (length, numbers, symbols).
 
-**Live Demo:** https://sukhwinder-webdev-code.github.io/React-Password-Generator/  
+**Live Demo:** https://password-generator-henna-sigma.vercel.app/  
 **GitHub Repo:** [React-Password-Generator](https://github.com/Sukhwinder-webdev-code/React-Password-Generator)
 
 ## Table of Contents
@@ -45,8 +45,8 @@ The React Password Generator is a web application built using React.js that enab
 ![Home Page](src/assets/home.png)
 
 ## deployment
-The project is deployed on github pages.
-- Live: https://sukhwinder-webdev-code.github.io/React-Password-Generator/
+The project is deployed on vercel.
+- Live: https://password-generator-henna-sigma.vercel.app/
 
 ## future-improvements
 - Password strength indicator
