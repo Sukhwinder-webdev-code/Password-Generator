@@ -41,7 +41,7 @@ function App() {
 
 
   return (
-    <section id="App-Container" className="App-Container">
+    <section id="App-Container" className="App-Container" role="main">
       <PasswordGenerator pass={passwrd} setLength={setLength} length={length} NumAllowed={NumAllowed} setnumAllowed={setNumAllowed} setCharAllowed={setCharAllowed} copy={copyPasswordToClipboard} showCopy={showCopy}/>
     </section>
   )
